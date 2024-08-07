@@ -1,9 +1,12 @@
 ## Boas vinda ao meu perfil 💙
 
+Meu nome e gabriela
 
-**gabezinha007/gabezinha007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estou estudando no alura
+-Estou me desenvolvendo na linguagem javascript 
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+## você entra em contato comigo 📫
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
